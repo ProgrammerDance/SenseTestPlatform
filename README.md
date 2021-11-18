@@ -1,0 +1,2 @@
+# SenseTestPlatform
+SenseTime自动化测试平台
