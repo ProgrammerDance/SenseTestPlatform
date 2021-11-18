@@ -11,6 +11,7 @@
 
 	<modules>
 		<module>tp-equipment</module>
+		<module>tp-member</module>
 		<module>tp-task</module>
 	</modules>
 
